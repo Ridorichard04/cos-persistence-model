@@ -21,7 +21,7 @@ The default values provided are for demonstration purposes and represent
 typical ranges from literature. For your specific application, these values
 should be determined experimentally or adjusted based on your system.
 
-Author: Generated for Science Case Section 5
+Author: Ridorichard04
 Version: Customizable parameters
 """
 
