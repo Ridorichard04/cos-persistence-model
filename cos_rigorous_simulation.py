@@ -41,7 +41,7 @@ for soil biochemical systems. For your specific application, you should:
 
 DO NOT use these example values for quantitative predictions without validation.
 
-Author: Generated for Science Case Section 5 (Rigorous Version)
+Author: Ridorichard04
 Date: 2026-01-19
 Python: 3.10+
 Dependencies: numpy>=1.24, matplotlib>=3.7, scipy>=1.10
